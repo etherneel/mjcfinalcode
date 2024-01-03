@@ -1,0 +1,101 @@
+<div className="rodmap_main">
+    <h1>Roadmap</h1>
+
+    <div className="roadmap_card">
+      <div
+        className="social_card "
+      >
+        <img src={roadmap1} alt="tokenimg" className="roadmaping" />
+        <p>Social</p>
+
+        <div className="ab_number1">
+          <span className="tickicons12">
+            <img src={img26tick} alt="tickicon" className="rickiconq" />
+          </span>
+          <p>21.08</p>
+        </div>
+      </div>
+
+      <div
+        className="social_card"
+      >
+        <img src={roadmap2} alt="tokenimg" className="roadmaping" />
+        <p>Achievements</p>
+        <div className="social_crd_right_line3"></div>
+        <div className="ab_number1">
+          <span className="tickicons12">
+            <img src={img26tick} alt="tickicon" className="rickiconq" />
+          </span>
+          <p>21.08</p>
+        </div>
+      </div>
+
+      <div
+        className="social_card"
+      >
+        <div className="social_crd_left_line2"></div>
+        {/* <img src={roadmap3} alt='tokenimg' className='roadmaping' /> */}
+        <p>Cycle Rally Marathon</p>
+
+        <div className="ab_number1">
+          <span className="tickicons12">
+            <img src={img26tick} alt="tickicon" className="rickiconq" />
+          </span>
+          <p>21.08</p>
+        </div>
+      </div>
+
+      <div
+        className="social_card"
+      >
+        <img src={roadmap4} alt="tokenimg" className="roadmaping" />
+        <p>MJC Games</p>
+        <div className="social_crd_right_line2"></div>
+        <div className="ab_number1">
+          <span className="tickicons12">
+            <img src={img26tick} alt="tickicon" className="rickiconq" />
+          </span>
+          <p>21.08</p>
+        </div>
+      </div>
+
+      <div
+        className="social_card"
+      >
+        <div className="social_crd_left_line3"></div>
+        <img src={roadmap5} alt="tokenimg" className="roadmaping" />
+        <p>Custom invite page</p>
+        <div className="ab_number1">
+          <span className="tickicons12">
+            <img src={img26tick} alt="tickicon" className="rickiconq" />
+          </span>
+          <p>21.08</p>
+        </div>
+      </div>
+      <div
+        className="social_card">
+        <div className="social_crd_right_line"></div>
+        <img src={roadmap6} alt="tokenimg" className="roadmaping" />
+        <p>New program</p>
+
+        <div className="ab_number1">
+          <span className="tickicons12">
+            <img src={img26tick} alt="tickicon" className="rickiconq" />
+          </span>
+          <p>21.08</p>
+        </div>
+      </div>
+
+      <div
+        className="social_card " >
+        <div className="social_crd_left_line"></div>
+        <img src={roadmap7} alt="tokenimg" className="roadmaping" />
+        <p>Token</p>
+
+        <div className="ab_number1">
+          <span className="circle_line">1</span>
+          <p>21.08</p>
+        </div>
+      </div>
+    </div>
+  </div>

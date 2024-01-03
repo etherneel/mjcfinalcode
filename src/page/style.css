@@ -1,0 +1,58 @@
+
+@media only screen and (max-width: 1199px) {
+    img.greenBg2 {
+        min-height: 765px;
+      }
+}
+
+@media only screen and (max-width: 991px) {
+    img.greenBg2 {
+        min-height: 725px;
+    }
+
+    .forsage_title2 {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 640px){
+img.greenBg2 {
+    min-height: 868px;
+}
+}
+
+@media only screen and (max-width: 480px){
+.card_chain2 h3 {
+    margin: 6px 4px !important;
+    width: 71px;
+    height: 68px;
+    font-size: 12px;
+    padding-top: 28px;
+}
+
+.forsgae_level_card {
+    padding: 18px;
+}
+
+.cycle_name {
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-content: flex-start;
+}
+
+
+.cycle_name_left {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+}
+
+
+
+}
